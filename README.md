@@ -13,8 +13,8 @@ El proyecto literAlura está diseñado para ayudar a los amantes de la literatur
 
 ## Tecnologías Utilizadas
 
-- **Java 11+**
-- **Spring Boot 2.6.4**
+- **Java 17+**
+- **Spring Boot 3.3.0*
 - **Spring Data JPA**
 - **PostgreSQL**, **MySQL**, **MariaDB**, **SQL Server**, **H2**
 - **Jackson**
